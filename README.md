@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates an unexpected ZeroDivisionError.  The error is triggered when the input `x` is 0, leading to division by zero. The solution demonstrates how to handle this situation using exception handling.
